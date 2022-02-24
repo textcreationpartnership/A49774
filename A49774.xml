@@ -1,0 +1,453 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse of subterraneal treasure occasioned by some late discoveries thereof in the county of Norfolk, and sent in a letter to Thomas Brown M.D.</title>
+            <author>Lawrence, Thomas, A.M.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 53 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49774</idno>
+            <idno type="STC">Wing L685</idno>
+            <idno type="STC">ESTC R26836</idno>
+            <idno type="EEBO-CITATION">09566386</idno>
+            <idno type="OCLC">ocm 09566386</idno>
+            <idno type="VID">43624</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49774)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43624)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1334:45)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse of subterraneal treasure occasioned by some late discoveries thereof in the county of Norfolk, and sent in a letter to Thomas Brown M.D.</title>
+                  <author>Lawrence, Thomas, A.M.</author>
+                  <author>Browne, Thomas, Sir, 1605-1682.</author>
+               </titleStmt>
+               <extent>[6], 94 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Collins,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the reader" signed: T.L.</note>
+                  <note>Caption title: Mercurius centralis.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Paleontology --  Early works to 1800.</term>
+               <term>Geology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:43624:1"/>
+            <p>Imprimatur.</p>
+            <closer>
+               <date>
+                  <hi>June</hi> 13. 1664.</date>
+               <signed>Roger L'Eſtrange.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:43624:1" rendition="simple:additions"/>
+            <p>A DISCOURSE OF SUBTERRANEAL TREASURE. Occaſioned by ſome late Diſcoveries thereof in the County of <hi>NORFOLK,</hi> And ſent in a LETTER To <hi>Thomas Brown,</hi> M. D.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Collins,</hi> at the Kings Head in <hi>Weſtminſter-Hall,</hi> 1668.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:43624:2"/>
+            <pb facs="tcp:43624:2"/>
+            <head>TO THE Reader.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am unwilling to make thoſe <hi>Common-Pleas</hi> (with which thou haſt been ſufficiently tired alrea<g ref="char:EOLhyphen"/>dy)
+<pb facs="tcp:43624:3"/> for my expoſing this to the <hi>publick,</hi> lest I be<g ref="char:EOLhyphen"/>come as <hi>cenſurable</hi> for thoſe, as for the <hi>Tract</hi> it ſelf. I muſt confeſs that I ſent it <hi>willingly</hi> into the light; and al<g ref="char:EOLhyphen"/>though I cannot pretend any <hi>general</hi> good in it, yet it may be <hi>uſeful</hi> to ſome that are ſtudious of <hi>Natures book,</hi> as ano<g ref="char:EOLhyphen"/>ther mans <hi>diſcoveries</hi> or rational <hi>Diſcourſes</hi>
+               <pb facs="tcp:43624:3"/> may be to me. I do not fear to ſay, that I have ſo much doated on the <hi>Volumes</hi> of the <hi>Crea<g ref="char:EOLhyphen"/>tion,</hi> that as I cannot think the <hi>meaneſt</hi> of <hi>Gods creatures</hi> ſo <hi>de<g ref="char:EOLhyphen"/>ſpicable</hi> but that its <hi>contemplation</hi> deſerves to be matter of <hi>buſineſs</hi> as well as of <hi>diverſion</hi> to the wiſeſt; ſo (to thoſe that are conſiderate and obſerving) the <hi>Arcana
+<pb facs="tcp:43624:4"/> Naturae,</hi> or (if it be law<g ref="char:EOLhyphen"/>ful ſo to call theſe) the <hi>magnalia Dei,</hi> are much more <hi>valuable</hi> and worth our <hi>ſearch.</hi> If I have <hi>diſcovered</hi> any thing in this little hand<g ref="char:EOLhyphen"/>ful, as I hope I have; or if the <hi>diſcovery</hi> can be to any, any way <hi>uſe<g ref="char:EOLhyphen"/>ful,</hi> as I hope it may be, either to ſatisfie, or at leaſt to actuate them to a further inquiry (the
+<pb facs="tcp:43624:4"/> 
+               <hi>Field</hi> is large enough, we need not juſte) I have my <hi>deſign.</hi> And though it were, or be but a <hi>partial detecting</hi> of a <hi>concealed truth;</hi> yet even <hi>that</hi> will hide ſome <hi>indiſcretions</hi> in the management. How<g ref="char:EOLhyphen"/>ever as <hi>he</hi> ſaid of <hi>Evils,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. I may ſay of my <hi>faults,</hi> The ſecrecy of the buſineſs <hi>diſcourſed</hi> will hide the
+<pb facs="tcp:43624:5"/> errours of the <hi>diſcour<g ref="char:EOLhyphen"/>ſer.</hi> But if thou ſhouldſt judge me <hi>fond</hi> of a <hi>phanſie</hi> or <hi>invention,</hi> I ſhall not fail of thy <hi>excuſe,</hi> ſince I am not the <hi>firſt</hi> that have run <hi>naked</hi> into <hi>publick</hi> with an <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in my mouth; what is <hi>amiſs amend,</hi> and</p>
+            <closer>
+               <salute>Farewell.</salute>
+               <signed>T. L.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:43624:5"/>
+            <head>Mercurius Centralis: OR, <hi>A DISCOURSE</hi> OF Subterraneal Cockle, Muſcle, and Oyſter-ſhels, found in the digging of a Well, &amp;c.</head>
+            <p>
+               <hi>DOctor,</hi> I have made the beſt <hi>inquiry</hi> I could in ſo ſhort a time, after the trueſt <hi>cauſe</hi> of that <hi>vein</hi> of <hi>Cockle</hi> and <hi>Muſcle-ſhels</hi> that was dig<g ref="char:EOLhyphen"/>ged up in <hi>Norfolk,</hi> ſo ma<g ref="char:EOLhyphen"/>ny foot <hi>deep</hi> under the ſur<g ref="char:EOLhyphen"/>face
+<pb n="2" facs="tcp:43624:6"/> of the Earth. And upon my moſt ſerious ex<g ref="char:EOLhyphen"/>amination do believe, that that <hi>reaſon</hi> which I caſual<g ref="char:EOLhyphen"/>ly bolted out when you firſt mentioned it to me, is the moſt <hi>likely</hi> and <hi>pro<g ref="char:EOLhyphen"/>bable,</hi> if not the only that can be given of it; of which I will give more than empty conjectures in the following Diſ<g ref="char:EOLhyphen"/>courſe. But before I come to unfold that my <hi>opinion;</hi> I will inſiſt on ſome things that relate to it, both for <hi>method</hi> ſake,
+<pb n="3" facs="tcp:43624:6"/> and to gain a little the more <hi>Reputation</hi> to it; and then will give you, or a<g ref="char:EOLhyphen"/>ny elſe leave to judge of it as you ſhall think fit; nor ſhall it diſpleaſe me if a<g ref="char:EOLhyphen"/>ny are of a different judg<g ref="char:EOLhyphen"/>ment.</p>
+            <p>
+               <hi>God</hi> that made the <hi>Uni<g ref="char:EOLhyphen"/>verſe</hi> for Mans <hi>uſe</hi> and <hi>de<g ref="char:EOLhyphen"/>light,</hi> hath beautified it with infinite varieties. In the <hi>animal</hi> kingdom, what diverſity of Creatures, <hi>Volatile, Reptile, Natant,</hi> and <hi>Gradient?</hi> How dif<g ref="char:EOLhyphen"/>ferent their <hi>ſhape, uſe, co<g ref="char:EOLhyphen"/>lour,
+<pb n="4" facs="tcp:43624:7"/> greatneſs,</hi> and <hi>ſmalneſs,</hi> their <hi>ſents,</hi> their <hi>tempers, natures?</hi> How various their <hi>amities, enmities, ſym<g ref="char:EOLhyphen"/>pathies,</hi> and <hi>antipathies?</hi> In the <hi>Vegetable</hi> kingdom, how different their <hi>ſhapes, proportions, colours, orders, taſtes;</hi> the <hi>firſt, ſecond</hi> and <hi>other qualities</hi> of their <hi>leaves, flowrs, roots, barks, ſeeds, fruits, tears,</hi> and <hi>gumms?</hi> Nor is Nature leſs <hi>skilful</hi> in generating and ordering the ſtrange <hi>Forms</hi> and <hi>Figures</hi> of <hi>Subterraneal bodies.</hi> Amongſt an hun<g ref="char:EOLhyphen"/>dred
+<pb n="5" facs="tcp:43624:7" rendition="simple:additions"/> thouſand <hi>ſtones</hi> on a <hi>ſtrand,</hi> a man ſhall not find <hi>two</hi> that in all things ex<g ref="char:EOLhyphen"/>actly <hi>agree;</hi> and yet there is many times ſome more <hi>general</hi> and <hi>groſs likeneſs.</hi>
+            </p>
+            <p>But if we examine the ſeveral <hi>ſpecies</hi> of <hi>Mineral bodies,</hi> there will be viſi<g ref="char:EOLhyphen"/>ble an admirable and pleaſing variety. Some are ſeen in the form of <hi>Cylinders,</hi> of which I have been preſent when many thouſands have been ta<g ref="char:EOLhyphen"/>ken out of <hi>Marle-pits.</hi> Some are exactly <hi>ſpherical</hi>
+               <pb n="6" facs="tcp:43624:8"/> like Bullets, but much bigger; ſo equally round that no art can be more exact, and of them many <hi>Ship ladings,</hi>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>vied.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.17.</note> between two Hills in <hi>Cuba.</hi> Many hun<g ref="char:EOLhyphen"/>dred <hi>flints</hi> in the ſame form I have found diſper<g ref="char:EOLhyphen"/>ſedly near the place I live in: In which alſo I have obſerved that their <hi>coat</hi> and <hi>external covering</hi> is <hi>white;</hi> next to that the ſtone is very <hi>black;</hi> but nearer to the <hi>Centre</hi> it is of a <hi>brighter</hi> colour, in which by the help of a <hi>Microſcope</hi>
+               <pb n="7" facs="tcp:43624:8"/> I have ſeen as it were lit<g ref="char:EOLhyphen"/>tle <hi>ſparkling Diamonds;</hi> in others of the ſame form I have found with my na<g ref="char:EOLhyphen"/>ked eyes many thouſand ſuch <hi>ſparkling ſtones</hi> as big as <hi>pins-heads,</hi> and ſome as big as ſmall <hi>barley-corns,</hi> of an excellent luſtre when they are held in the <hi>Sun.</hi> I have ſeen likewiſe <hi>Foſsiles Aetites,</hi> if I may ſo call them; <hi>ſtones</hi> in an <hi>Oval</hi> ſhape as big as <hi>Pigeons Eggs,</hi> hollow in the inſide, and <hi>impregnate</hi> with <hi>leſſer ſtones,</hi> which on the ſha<g ref="char:EOLhyphen"/>king
+<pb n="8" facs="tcp:43624:9"/> betray'd themſelves by their ſound, as the <hi>ker<g ref="char:EOLhyphen"/>nels</hi> in the dry <hi>ſtones</hi> of <hi>Peaches. Diamonds,</hi> and our <hi>Corniſh</hi> and <hi>Briſtol ſtones</hi> are all generated with <hi>ſpires</hi> or <hi>points.</hi>
+               <note place="margin">Mr. S.S.</note> A friend of mine imparted to me a <hi>fluor</hi> that grew on a <hi>rocky ſtone</hi> that is very <hi>clear</hi> and <hi>ſhoots</hi> in the ſame form, and is ſo <hi>hard</hi> that it will cut <hi>glaſs.</hi> Some are ſeen in the form of <hi>Cones,</hi> ſome of <hi>Pyramids,</hi> ſome of <hi>Semiſpheres,</hi> and <hi>gutter'd</hi> and <hi>furrowed</hi> on the ſides
+<pb n="9" facs="tcp:43624:9"/> like the <hi>pummels</hi> of ſome <hi>Swords;</hi> ſome <hi>ſmooth,</hi> ſome <hi>writhed. Cryſtal</hi> doth <hi>ſhoot in ſexangulos.</hi> I ſaw <hi>ſtones</hi> digged out of a little <hi>Ca<g ref="char:EOLhyphen"/>vern</hi> by a Springs-ſide be<g ref="char:EOLhyphen"/>tween St. <hi>Ives</hi> and <hi>Somer<g ref="char:EOLhyphen"/>ſham</hi> in <hi>Huntingdon-ſhire,</hi> every one of them had the ſame <hi>Figure,</hi> and were in compaſs <hi>ſexangular,</hi> with two broader and more depreſſed <hi>ſuperficies,</hi> on ei<g ref="char:EOLhyphen"/>ther ſide it made a perfect <hi>Rhomboides,</hi> clear as <hi>Cry<g ref="char:EOLhyphen"/>ſtal,</hi> but very ſoft and apt to ſcale; of which none
+<pb n="10" facs="tcp:43624:10"/> knew any conſiderable uſe: only the powder of it was found good to <hi>Ci<g ref="char:EOLhyphen"/>catrize</hi> green wounds. And indeed almoſt all ſorts of <hi>ſtones,</hi> whether more choice and <hi>orient,</hi> or more baſe and vulgar, have for the moſt part be<g ref="char:EOLhyphen"/>ſides their different ver<g ref="char:EOLhyphen"/>tues, ſeveral <hi>Figures</hi> and <hi>Colours.</hi> But theſe are mean, low and common obſervations. What ſhall we think of that, <hi>Cornu Monocerotis foſsile;</hi> thoſe <hi>oſſa ſubterranea &amp; foſsilia,</hi>
+               <pb n="11" facs="tcp:43624:10"/> which are very often ge<g ref="char:EOLhyphen"/>nerated of <hi>oſteocolla</hi> and the like ſubſtances, and have given <hi>conplexion</hi> to thoſe ſtories of<note n="*" place="margin">Not that I deny that there have been men of vaſt bodies in ſeveral ages. The Sons of <hi>Anak</hi> were without queſtion very great men. <hi>Goliah</hi> and others mentioned were Giants. We read of Giants famous from the beginning, that were of ſo great ſtature and ſo expert in war, <hi>Baruch 3.26.</hi> of the Sons of the <hi>Titans</hi> and high Giants, <hi>Judith 16.7.</hi> At <hi>Coggeſhall</hi> were found two teeth that might have been cut into two hundred of an ordinary ſize. <hi>Camb. de Trinobant. St. Auguſtine</hi> ſaw ſuch an one at <hi>Utica.</hi> But theſe even in the Scripture, the moſt exact hiſtory in the World, are recorded as rare; ſo that I do not believe that they have been common in any Country, much leſs that any Country hath been inhabited by only ſuch. An old Poet cited by our Anti<g ref="char:EOLhyphen"/>quary ſpeaking that <hi>Cornwall</hi> was the ſeat of ſome, ſaith they were but few.
+<q>
+                     <l>—Titanibus illa</l>
+                     <l>Sed paucis famuloſa domus.</l>
+                     <bibl>
+                        <hi>Vid. Hackwell in Apolog. de hoc ſubjecto.</hi>
+                     </bibl>
+                  </q>
+               </note> 
+               <hi>Gyantick races</hi>
+               <pb n="12" facs="tcp:43624:11"/> in ſeveral Countries; be<g ref="char:EOLhyphen"/>cauſe this, like <hi>bones</hi> of men, hath been found of a vaſt <hi>bigneſs?</hi> What ſhall we think of thoſe <hi>bones of Fiſh,</hi> and ſuch <hi>Subterraneal Muſcle and Oyster-ſhels</hi> found at <hi>Darmſtadt</hi> in the <hi>Palatinate,</hi> and at other places near <hi>Heidelberg,</hi> and in <hi>Sileſia,</hi> and thoſe you mentioned to me? At <hi>New-houſe</hi> a ſeat of one
+<pb n="13" facs="tcp:43624:12"/> Mr. <hi>Eyres</hi> in <hi>White-Pariſh</hi> in the County of <hi>Wilts,</hi> as they were digging of a Well about <hi>thirty foot deep</hi> (as it was related to me) between two <hi>veins</hi> of <hi>ſand</hi> were found infinite num<g ref="char:EOLhyphen"/>bers of <hi>Oyster-ſhels</hi> in a <hi>bed,</hi> both <hi>ſhels</hi> cloſed to<g ref="char:EOLhyphen"/>gether, and nothing diſ<g ref="char:EOLhyphen"/>cernable between them but a little <hi>duſt.</hi> But far<g ref="char:EOLhyphen"/>ther yet, what can we ſay of thoſe <hi>Tables</hi> of <hi>ſtone</hi> in which are ſeen the <hi>Pi<g ref="char:EOLhyphen"/>ctures</hi> of divers <hi>Planets,</hi> of <hi>Frogs, Serpents, Salaman<g ref="char:EOLhyphen"/>ders;</hi>
+               <pb n="14" facs="tcp:43624:13"/> nay, <hi>Principum &amp; illuſtrium virorum imagines,</hi> as <hi>Sennertus</hi> ſaith are found in <hi>Iſlebia?</hi>
+               <note place="margin">Epitom. Phyſ. lib. <hi>5.</hi> cap. <hi>4.</hi>
+               </note> I my ſelf have ſeen an <hi>Agate</hi> with a natural <hi>foil</hi> like a <hi>Black<g ref="char:EOLhyphen"/>moores head,</hi> and another like an <hi>Oaken leaf,</hi> that ſome have went to bruſh away, and yet it was within the ſtone, and ſo exact too, that it deceived the very ſight. <hi>Eraſmus</hi> deſcribeth one hat he ſaw in <hi>England</hi> in a <hi>Tem<g ref="char:EOLhyphen"/>ple</hi> at the feet of the image the <hi>Virgin Mary,</hi> in which
+<pb n="15" facs="tcp:43624:13"/> there was the form of a <hi>Toad.</hi> I will ſet it down in his own words.<note place="margin">Eraſm: Coll. Pe<g ref="char:EOLhyphen"/>grin. re<g ref="char:EOLhyphen"/>lig. Ergo.</note> Og. <hi>Ad pedes virginis eſt gemma cui nondum apud Latinos aut Graecos nomen inditum eſt, Galli à Bufone nome<g ref="char:cmbAbbrStroke">̄</g> dederunt, eo quod bufonis effigiem ſic ex<g ref="char:EOLhyphen"/>primat, ut nulla ars idem poſsit efficere. Quod<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> majus eſt mi<g ref="char:EOLhyphen"/>raculum; puſillus eſt lapillus; non prominet bufonis imago, fed ipſa gemma velut inclu<g ref="char:EOLhyphen"/>ſa pellucet.</hi> This, <hi>Menede<g ref="char:EOLhyphen"/>mus</hi> that diſcourſeth with him, imputes rather to the <hi>fancy</hi> of the beholder;
+<pb n="16" facs="tcp:43624:14"/> as Children think they ſee <hi>heads,</hi> and <hi>faces,</hi> and <hi>bulls,</hi> and <hi>ſwords,</hi> in the Clouds. But he anſwer<g ref="char:EOLhyphen"/>eth. <hi>Imò nè ſis neſciens, nullus bufo vivus evidentiùs exprimit ſeipſum quam illic erat expreſſus.</hi> And from his companions incredu<g ref="char:EOLhyphen"/>lity taketh occaſions largely to diſcourſe the ſtrange <hi>forms</hi> of <hi>ſtones.</hi> Now although it be im<g ref="char:EOLhyphen"/>poſsible to find out the certain <hi>cauſes</hi> of theſe moſt <hi>noble</hi> and <hi>recluſe</hi> works of Nature, theſe
+<pb n="17" facs="tcp:43624:14"/> being ſuch things where<g ref="char:EOLhyphen"/>in we have very great rea<g ref="char:EOLhyphen"/>ſon to admire the <hi>provi<g ref="char:EOLhyphen"/>dence</hi> of <hi>God,</hi> and his moſt <hi>perfect work-man-ſhip,</hi> that hath given to each crea<g ref="char:EOLhyphen"/>ture (as <hi>Scroder</hi> calls it) <hi>rationem ſeminalem;</hi> or as <hi>Severinus,</hi> the <hi>knowledge</hi> or <hi>ſcience</hi> of its own <hi>proper form.</hi> And indeed ſome of them are in this as cer<g ref="char:EOLhyphen"/>tain as the moſt <hi>voluntary agents.</hi> And even thoſe which caſually obtain theſe ſhapes may be gueſſed at, for (beſides
+<pb n="18" facs="tcp:43624:15"/> the <hi>luſus naturae,</hi> which moſt flie to) the creatures they repreſent may be <hi>pe<g ref="char:EOLhyphen"/>trefied, a ſpiritu lapideſcente;</hi> or may be incloſed as in a <hi>Coffin</hi> in the purer <hi>uncon<g ref="char:EOLhyphen"/>crete matter</hi> of <hi>ſtones;</hi> which being ſpeedily <hi>har<g ref="char:EOLhyphen"/>dened,</hi> and thoſe in ſome meaſure <hi>aſsimilated</hi> to that <hi>ſtony ſubſtance,</hi> their linea<g ref="char:EOLhyphen"/>ments <hi>ſhine through,</hi> as <hi>Flies</hi> caſed in <hi>Amber</hi> are ſeen almoſt as <hi>clearly</hi> as if they were out of it. And par<g ref="char:EOLhyphen"/>ticularly for ſuch <hi>ſhels</hi> we are now to diſcourſe of,
+<pb n="19" facs="tcp:43624:15"/> there may be ſome con<g ref="char:EOLhyphen"/>jecture had of ſome of their <hi>forms;</hi> and this brings me to diſtinguiſh be<g ref="char:EOLhyphen"/>tween <hi>Muſcle</hi> and <hi>Cockle-ſhels really,</hi> and ſuch in <hi>ſhape</hi> and <hi>appearance</hi> only; for I have ſeen many <hi>ſtones</hi> in the <hi>ſhape</hi> of theſe, which I imagine were thus made. The <hi>Oyſter, Muſcle, or Cockle-ſhels,</hi> lying in ſuch places where they have been caſt out by men, have <hi>caſually</hi> received the <hi>ſuccus lapideſcens,</hi> or <hi>uncon<g ref="char:EOLhyphen"/>crete matter</hi> of <hi>ſtones,</hi> and
+<pb n="20" facs="tcp:43624:16"/> have become a <hi>bed</hi> or <hi>ma<g ref="char:EOLhyphen"/>trix</hi> to it; and ſo hath that <hi>ſtone</hi> been ſhapen ac<g ref="char:EOLhyphen"/>cording to this <hi>mould,</hi> as <hi>gourds</hi> while they are young put in <hi>glaſſes</hi> grow not according to their u<g ref="char:EOLhyphen"/>ſual natural <hi>form,</hi> but ac<g ref="char:EOLhyphen"/>cording to the <hi>ſhape</hi> and <hi>proportion</hi> of the <hi>glaſſes.</hi>
+            </p>
+            <p n="2">2. If they were <hi>really Muſcle</hi> and <hi>Cockle-ſhells,</hi> that could not be the <hi>place</hi> of their <hi>generation,</hi> but they muſt be by ſome <hi>vio<g ref="char:EOLhyphen"/>lence</hi> and <hi>impetuoſity</hi> hurri<g ref="char:EOLhyphen"/>ed thither; and for their
+<pb n="21" facs="tcp:43624:16"/> 
+               <hi>loco-motion</hi> we can find no other <hi>Media</hi> than the <hi>earth</hi> or <hi>air.</hi> And <hi>firſt</hi> for the <hi>air.</hi> Thoſe that have ſail<g ref="char:EOLhyphen"/>ed to the <hi>Indies</hi> can inform you with what force <hi>Hir<g ref="char:EOLhyphen"/>canoes</hi> or <hi>Turbines</hi> (which ſome diſtinguiſh; but I think that there is no other difference between them, than that the <hi>Hir<g ref="char:EOLhyphen"/>cano</hi> is a <hi>circumagitation</hi> of the <hi>air</hi> or <hi>whirlewind</hi> tend<g ref="char:EOLhyphen"/>ing <hi>downwards;</hi> and the <hi>Turbo</hi> the <hi>whirlewind</hi> tend<g ref="char:EOLhyphen"/>ing <hi>upwards</hi>) the meeting together of contrary furi<g ref="char:EOLhyphen"/>ous
+<pb n="22" facs="tcp:43624:17"/> winds, have taken up whole Seas of water; and what ſhould hinder them that when they fall foul near a <hi>ſhore,</hi> they ſhould not rake the <hi>Seas,</hi> and carry other bodies beſides the <hi>water?</hi>
+               <note place="margin">Hacklu<g ref="char:EOLhyphen"/>yt. Diſc. to. <hi>3.</hi> p. <hi>100.</hi>
+               </note> Some <hi>Mariners</hi> in the <hi>North-weſt diſcovery</hi> were eye witneſſes of ſuch a <hi>whirlwind,</hi> that for the ſpace of three hours toge<g ref="char:EOLhyphen"/>ther, took up vaſt quan<g ref="char:EOLhyphen"/>tities of <hi>water,</hi> furiouſly mounting them up in the <hi>air.</hi> And altogether as ſtrange hath the force of
+<pb n="23" facs="tcp:43624:17"/> it been on <hi>dry ground;</hi> of which <hi>Bellarmine</hi> gives us a relation that it is ſo <hi>in<g ref="char:EOLhyphen"/>credible,</hi>
+               <note place="margin">Bell. de Aſcenſ<g ref="char:EOLhyphen"/>ment. in Deum, Grad. <hi>2.</hi> cap. <hi>4.</hi>
+               </note> that he premiſeth this, <hi>Quod niſi vidiſſem, non crederem.</hi> He thus deſcri<g ref="char:EOLhyphen"/>beth it; <hi>Vidi ego à vehe<g ref="char:EOLhyphen"/>mentiſsimo vento effoſſam in<g ref="char:EOLhyphen"/>gentem terrae molem, eám<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> delatam ſuper pagum quen<g ref="char:EOLhyphen"/>dam, ut fovea altiſsima con<g ref="char:EOLhyphen"/>ſpiceretur unde eruta fuerat, &amp; pagus totus coopertus &amp; quaſi ſepultus manſerit, ad quem terra illa devenerat.</hi> It is ordinary in moſt <hi>hiſtories</hi> to read of <hi>bloud</hi>
+               <pb n="24" facs="tcp:43624:18"/> falling in <hi>ſhowres,</hi>
+               <note place="margin">Anno ab urbe condita <hi>cccclxxx</hi> lac de coelo ma<g ref="char:EOLhyphen"/>nare vi<g ref="char:EOLhyphen"/>ſum eſt. Oroſ. lib. <hi>4.</hi> cap. <hi>5. In the fourth year of</hi> Ivor <hi>the ſon of</hi> Alan <hi>in</hi> Wales, <hi>it rained bloud in</hi> England <hi>and</hi> Ireland. <hi>Welch. chron.</hi> Gabiis lacte pluit. T. Graccho, Tit. Manlio, Coſs. In Graecoſtaſi. C.C. L. Cai. Sext. Coſs. Praeneſte. L. Cecil. L. Aurel. Coſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. In Agro Peruſino P. Sor. G. Atil. Coſs. ſanguino per biduum pluit in Area Vulcani &amp; Concordiae. M. C. Quint. Fab. Coſs. Lapid. Pluviae. In Aventino Tuſcis lapidibus pluit. Vid. Jul. Obſ. de prodig. ad fin. Plinii.</note> or at leaſt of what is <hi>analogous</hi> to <hi>bloud,</hi> of <hi>wood, wool, worms. Munſter</hi>
+               <note n="*" place="margin">Munſter. Coſmog. lib. <hi>4.</hi> cap. <hi>22.</hi>
+               </note> tells us of <hi>Frogs, Mice,</hi> and <hi>Rats,</hi> that fell with ſome <hi>feculent ſhowres</hi> in <hi>Norway.</hi> There is one at this time living, that walking through a low <hi>mariſh ground</hi> in <hi>England,</hi>
+               <pb n="25" facs="tcp:43624:18"/> in a <hi>foggie</hi> morning, had his Hat almoſt covered with little <hi>Frogs,</hi> that fell on it as he walked: and many at ſome times on the <hi>tops</hi> of <hi>houſes</hi> and <hi>leads,</hi> have found great num<g ref="char:EOLhyphen"/>bers of ſuch <hi>creatures.</hi> At <hi>Arles</hi> in <hi>France</hi> in the year 1553. <hi>Infinite ſwarms of Locuſts fell on their fields,</hi>
+               <note place="margin">Valeriolae obſ. lib. <hi>1.</hi> obſ. <hi>1.</hi>
+               </note> 
+               <hi>and immediately devoured all that was green, Magnâ incolarum admiratione &amp; conſternatione.</hi> So we read that by an <hi>Eaſt wind</hi> the <hi>Locuſts</hi> which covered the face of <hi>Egypt</hi>
+               <pb n="26" facs="tcp:43624:19"/> were brought on it, &amp; by as a ſtrong <hi>Weſt wind</hi> they were carried off again; <hi>Exo.</hi> 10.13, 19. <hi>Stones</hi> like<g ref="char:EOLhyphen"/>wiſe have thus fallen. In <hi>Japan,</hi>
+               <note place="margin">Organ<g ref="char:EOLhyphen"/>tius.</note> on a day when they <hi>ſolemnized</hi> a great <hi>Fe<g ref="char:EOLhyphen"/>ſtival</hi> to their <hi>Idol,</hi> there fell among them a great <hi>ſhowre</hi> of <hi>ſtones,</hi> which ſlew many, and put the reſt to their heels to ſhift for themſelves. And it is very likely that thoſe <hi>ſhowres</hi> of <hi>hail</hi> that ſlew ſo many in ſeveral ſtories, were <hi>grandines lapidum,</hi> (as
+<pb n="27" facs="tcp:43624:19"/> 
+               <hi>Lactantius</hi> calls thoſe <hi>ſhowres</hi> of vengeance,<note place="margin">Lactant. Dio. Juſt. l. <hi>7.</hi> c. <hi>26.</hi>
+               </note> that God will at the laſt ſend on the <hi>Devil</hi> and his <hi>ac<g ref="char:EOLhyphen"/>complices</hi>) to which the ex<g ref="char:EOLhyphen"/>preſsion of <hi>history</hi> agrees.<note place="margin">Oroſ. l. <hi>3.</hi> c. <hi>6.</hi>
+               </note> At the time of <hi>Alexanders</hi> birth, <hi>Saxea de nubibus grando deſcendens, veris ter<g ref="char:EOLhyphen"/>ram lapidibus verberavit.</hi> And to this is the <hi>Scripture</hi> conſonant, <hi>Joſ.</hi> 10.11. For what is called <hi>hail</hi> in the later part of the verſe, is <hi>ſtones</hi> in the former. <hi>And as they fled from before Iſrael, and were going down to
+<pb n="28" facs="tcp:43624:20"/> Bethoron, the Lord caſt down great ſtones from heaven upon them unto Azekah, and they died.</hi> And that heteroge<g ref="char:EOLhyphen"/>neous bodies are found in <hi>mines,</hi> and on the <hi>tops</hi> of <hi>mountains, Ariſtotle</hi>
+               <note place="margin">Ariſt. Meteoro.</note> inſinu<g ref="char:EOLhyphen"/>ates this to be the <hi>cauſe, viz.</hi> that they are brought to ſuch <hi>places</hi> by the <hi>winds.</hi> It ſeems I muſt confeſs the more colourable, that things ſhould be brought this way from the Sea, becauſe the Sea both of old, and more lately, hath been deemed to be the
+<pb n="29" facs="tcp:43624:20"/> 
+               <hi>father</hi> of the <hi>winds. Eraſ<g ref="char:EOLhyphen"/>mus</hi> deſcribing <hi>Paratha<g ref="char:EOLhyphen"/>laſsia</hi> ſaith,<note place="margin">Peregr. relig. Ergo.</note> 
+               <hi>In propinquo est oceanus ventorum pater,</hi> and the <hi>old Poet</hi> ſpeaking of the <hi>generation</hi> of the <hi>winds,</hi> finds out the ſame <hi>cauſe:</hi>
+               <note place="margin">Heſiod. Oper. &amp; dies p. <hi>44.</hi>
+               </note>
+               <q>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </q> And therefore <hi>winds</hi> have in ſome places been ob<g ref="char:EOLhyphen"/>ſerved to be <hi>Obſequious</hi> to the <hi>courſe</hi> of the <hi>Moon</hi> as the <hi>waters</hi> are, which that <hi>Roman Poet</hi> hints.</p>
+            <pb n="30" facs="tcp:43624:21"/>
+            <q>Thracio bacchante magis ſub interlunia vento.<note place="margin">Horat. Carm. lib. <hi>1.</hi> Od. <hi>25.</hi>
+               </note>
+            </q>
+            <p>'Tis true, no man can tell the force and fury of the unbridled winds, that are ſo mad that they know not whence they come, nor whither they will. But yet were ſuch <hi>heteroge<g ref="char:EOLhyphen"/>neities</hi> which are found ſo <hi>deep</hi> this way <hi>brought,</hi> they ſhould be found in all or moſt places alike; and they ſhould be found a<g ref="char:EOLhyphen"/>bove ground too, unleſs we can imagine that immediately on their
+<pb n="31" facs="tcp:43624:21"/> falling the Earth ſuffer ſome <hi>Chaſm,</hi> and doth in<g ref="char:EOLhyphen"/>gulf and ſwallow them into its <hi>bowels.</hi> And there<g ref="char:EOLhyphen"/>fore it is moſt probable they are brought to ſuch places from the Sea, the place of their Generation, generally <hi>under the Earth.</hi>
+            </p>
+            <p n="3">3. If they are brought from the <hi>Sea</hi> to the place they are found in, <hi>under the Earth,</hi> it muſt be either by a <hi>natural</hi> or by a <hi>ſupernatu<g ref="char:EOLhyphen"/>ral impellent or mover;</hi> by <hi>ſpi<g ref="char:EOLhyphen"/>rits,</hi> or by a <hi>natural vehicle.</hi> No man that is either a
+<pb n="32" facs="tcp:43624:22"/> 
+               <hi>Philoſopher</hi> or a <hi>Chriſtian</hi> can doubt of the power of <hi>ſpirits,</hi> by <hi>Gods command</hi> or <hi>permiſsion,</hi> to effect this and many more a<g ref="char:EOLhyphen"/>ctions that are far more difficult and unlikely. And <hi>Paracelſus</hi> with ſome others would have us be<g ref="char:EOLhyphen"/>lieve that there are innu<g ref="char:EOLhyphen"/>merable ſuch <hi>ſpirits</hi> or <hi>ge<g ref="char:EOLhyphen"/>nii</hi> that inhabit the <hi>Earth,</hi> as he hath projected there are Inhabitants of the <hi>Sun, Moon,</hi> and other <hi>Pla<g ref="char:EOLhyphen"/>nets,</hi> which he calls <hi>Solar, Lunar, Saturnine, &amp;c.</hi> and
+<pb n="33" facs="tcp:43624:22"/> of the <hi>air</hi> which he ſtyles <hi>aerial.</hi> And to their ma<g ref="char:EOLhyphen"/>nagements referreth all the natural motions of <hi>Generation</hi> and <hi>Corruption,</hi> and the violent, as of <hi>Chaſms, Earthquakes,</hi> and o<g ref="char:EOLhyphen"/>ther alterations in the bowels of the Earth. Nay, they reduce them to ſeve<g ref="char:EOLhyphen"/>ral <hi>Claſſes</hi> and <hi>Orders,</hi> and with a little invitation would be ready to ſwear, that many of them are <hi>Engineers</hi> that contrive the <hi>Water-works,</hi> and make <hi>Ri<g ref="char:EOLhyphen"/>vers</hi> and <hi>Aqueducts;</hi> that
+<pb n="34" facs="tcp:43624:23"/> ſome are <hi>Blackſmiths</hi> by Trade that work in the <hi>Vulcanoes;</hi> that ſome are <hi>Brewers</hi> that boil <hi>natural baths,</hi> and uſe <hi>Minerals</hi> in<g ref="char:EOLhyphen"/>ſtead of <hi>Mault.</hi> But theſe opinions are ſuch, that beſides their own natural abſurdity, our Religion will teach us to explode, and are then confuted when they are only na<g ref="char:EOLhyphen"/>med. For though we grant that ſome ſuch things are poſsible to be done by the <hi>Devil;</hi> that is not ſo the Prince of the
+<pb n="35" facs="tcp:43624:23"/> power of the <hi>air,</hi> as not to be the <hi>God</hi> of this <hi>lower world;</hi> yet to impute all things to them muſt needs be <hi>aſylum ignorantiae,</hi> and a <hi>Remora</hi> to all <hi>inge<g ref="char:EOLhyphen"/>nuous</hi> and <hi>Philoſophical diſ<g ref="char:EOLhyphen"/>quiſitions,</hi> of the <hi>nature</hi> and <hi>cauſes</hi> of all things and a<g ref="char:EOLhyphen"/>ctions in the <hi>bowels</hi> of the <hi>Earth,</hi> and a means to make us know no more of <hi>nature</hi> than what is <hi>ob<g ref="char:EOLhyphen"/>vious</hi> to <hi>ſenſe.</hi> So that I take it for granted, that ſome <hi>natural, ordinary vehicle</hi> there is under the <hi>Earth</hi> that
+<pb n="36" facs="tcp:43624:24"/> brings ſuch <hi>heterogeneous bodies</hi> from their <hi>native</hi> and <hi>genial ſeat,</hi> and <hi>proper place,</hi> to ſuch <hi>Vaults, Hills, Veins,</hi> and <hi>Caverns</hi> where they are found.</p>
+            <p n="4">4. Now the moſt like<g ref="char:EOLhyphen"/>ly <hi>movers</hi> of all others to carry bodies of <hi>weight un<g ref="char:EOLhyphen"/>der</hi> the <hi>Earth</hi> are two; either <hi>exhalations</hi> or <hi>waters;</hi> for as for <hi>vapours,</hi> I look not on them as capable of carrying any thing of <hi>weight,</hi> eſpecially ſo <hi>low</hi> in the <hi>Earth,</hi> where they can<g ref="char:EOLhyphen"/>not be ſo much <hi>rarefied,</hi> by
+<pb n="37" facs="tcp:43624:24"/> reaſon of the <hi>natural cold<g ref="char:EOLhyphen"/>neſs</hi> of that <hi>Element.</hi> 'Tis true, <hi>May-dew</hi> which is a <hi>vapour condenſed</hi> will carry up an <hi>Egg-ſhell</hi> in which it is put, by the help of a <hi>Pike</hi> or <hi>Spear</hi> placed by it. But this is in the ſight of the <hi>Sun,</hi> and if ſo much as a <hi>thin cloud interpoſe</hi> it falls again immediately: A<g ref="char:EOLhyphen"/>gain, the <hi>ſhell</hi> is exceeding light; beſides that, the <hi>dew</hi> is ſealed in it that it cannot get out; and even this moves <hi>upwards</hi> to<g ref="char:EOLhyphen"/>wards the <hi>Sun,</hi> not <hi>ſide<g ref="char:EOLhyphen"/>wayes</hi>
+               <pb n="38" facs="tcp:43624:25"/> along the <hi>Earth.</hi> So that it muſt be conclu<g ref="char:EOLhyphen"/>ded, that vapours cannot be ſerviceable to our pur<g ref="char:EOLhyphen"/>poſe, ſo as to force whole <hi>veins of ſhels</hi> or other <hi>bodies</hi> to places ſo <hi>far diſtant</hi> from the <hi>Sea,</hi> and there to <hi>ram them in.</hi> It remains then, that this be effected by <hi>one</hi> or <hi>other</hi> of the <hi>for<g ref="char:EOLhyphen"/>mer means.</hi>
+            </p>
+            <p>As for <hi>exhalations,</hi> and that their force is ſuch that can <hi>impetuouſly move bodies</hi> of the <hi>greateſt weight,</hi> we need look no further
+<pb n="39" facs="tcp:43624:25"/> than our <hi>Gun-powder,</hi> and the <hi>Machines</hi> or <hi>Engines</hi> that are uſed by or with it; ſuch as <hi>Cannons, Bul<g ref="char:EOLhyphen"/>lets, Balls</hi> of <hi>Lead</hi> or <hi>Iron, Stones, Granadoes, &amp;c.</hi> of which ſome, by the help of a <hi>cold</hi> and <hi>dry exhalation</hi> pent in the <hi>Niter</hi> or <hi>Salt-Peter,</hi> and ſuddenly by <hi>fire</hi> flying out, make as ſtu<g ref="char:EOLhyphen"/>pend refractions of the <hi>air,</hi> and obtain a <hi>violence equal</hi> to that of our uſual <hi>thunder</hi> and <hi>lightnings.</hi> And after the ſame manner is their <hi>force</hi> and <hi>light cauſed,</hi>
+               <pb n="40" facs="tcp:43624:26"/> the <hi>violence</hi> and <hi>noiſe</hi> of <hi>Au<g ref="char:EOLhyphen"/>rum Fulminans.</hi> And theſe <hi>exhalations</hi> which have ſuch effects <hi>above,</hi> have the ſame ſtrength <hi>under ground,</hi> as appears by <hi>Earthquakes,</hi> with which there are uſually heard a<note n="*" place="margin">Terra mugi u tremuit M. Cat. Quint. Mart. Coſs. Fremitus infernus ad Coelum ferri viſus M. Anton. A. Poſth. Coſs. Fremitus terrae etiam Faeſulis auditus M. Per<g ref="char:EOLhyphen"/>penn. Cai. Claud. Coſs. <hi>The City</hi> Ferrara <hi>in the year 1570. was ſurprized with a fearful noiſe, as if it had been battered with great Ord<g ref="char:EOLhyphen"/>nance, afterwards with a moſt violent trem<g ref="char:EOLhyphen"/>bling.</hi>
+               </note> 
+               <hi>murmur</hi> and <hi>ſound.</hi> When <hi>Sempronius Gracchus</hi> was
+<pb n="41" facs="tcp:43624:26"/> ſetting on the <hi>Picaeni,</hi> and they were juſt joyning battel;<note n="*" place="margin">Oroſ. lib. <hi>4.</hi> cap. <hi>4.</hi>
+               </note> 
+               <hi>tam horrendo fra<g ref="char:EOLhyphen"/>gore terra tremuit, ut ſtupore miraculi utrumque pave<g ref="char:EOLhyphen"/>factum agmen hebeſceret.</hi> Theſe make the Earth tremble, the Mountains rowl, the Rocks quake, and eſpecially if the <hi>exha<g ref="char:EOLhyphen"/>lation</hi> that cauſeth them be <hi>impregnate</hi> with <hi>Nitro<g ref="char:EOLhyphen"/>ſulphureous ſpirits,</hi> which have ſometimes thruſt out <hi>hills</hi> where there were plains, <hi>Iſlands</hi> in the midſt of Seas, made huge <hi>Rivers</hi>
+               <pb n="42" facs="tcp:43624:27"/> where there were none, turned the <hi>current</hi> of ſome, <hi>ſtopped</hi> others, left <hi>vaſt caverns</hi> and holes, de<g ref="char:EOLhyphen"/>preſſed <hi>Mountains,</hi> ſwal<g ref="char:EOLhyphen"/>lowed <hi>Cities</hi> and <hi>Armies,</hi> ſubverted <hi>Temples</hi> and <hi>Palaces. Cizicus</hi> a <hi>City</hi> of <hi>Miſia minor,</hi> with the fa<g ref="char:EOLhyphen"/>mous <hi>Temple</hi> of <hi>Jupiter</hi> there, were both ſwallow<g ref="char:EOLhyphen"/>ed in an <hi>Earthquake;</hi> and ſo was <hi>Philadelphia</hi> another <hi>City</hi> of the ſame <hi>Miſia,</hi> and one of the Churches St. <hi>John</hi> writ to. <hi>Apoc.</hi> 3.7. In an <hi>Earthquake</hi> in <hi>Vinianfu</hi>
+               <pb n="43" facs="tcp:43624:27"/> in <hi>China,</hi> the <hi>Nitroſulphure<g ref="char:EOLhyphen"/>ous ſpirits</hi> burſt out of the <hi>Earth</hi> in ſuch an <hi>actuall flame,</hi> that it conſumed the whole <hi>City</hi> and innu<g ref="char:EOLhyphen"/>merable people. At <hi>Hien</hi> in the ſame Country, the <hi>fall</hi> of the <hi>houſes</hi> by the ſame <hi>Earthquake</hi> ſlew <hi>eight thouſand.</hi> At <hi>Enchinoen</hi> an <hi>hundred thouſand</hi> periſhed. Immediately on the bitter perſecution of <hi>Diocleſian,</hi> a fearful <hi>Earthquake</hi> hap<g ref="char:EOLhyphen"/>pened in <hi>Syria,</hi>
+               <note place="margin">Oroſ. lib. <hi>7.</hi> c. <hi>17.</hi>
+               </note> by which <hi>Tyre</hi> and <hi>Sydon</hi> were al<g ref="char:EOLhyphen"/>moſt deſtroyed, and
+<pb n="44" facs="tcp:43624:28"/> many <hi>thouſands</hi> were kil'd.
+<q>
+                  <l>
+                     <note place="margin">Lucan. lib. <hi>1.</hi>
+                     </note>—Quatiente ruina</l>
+                  <l>Nutantes pendere domos.—</l>
+               </q> Or as the ſame <hi>Author</hi> elſe<g ref="char:EOLhyphen"/>where deſcribeth an <hi>earth<g ref="char:EOLhyphen"/>quake,</hi>
+               <q>
+                  <l>— Cardine tellus</l>
+                  <l>Subſedit, veterém<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> jugis nutantibus Alpes</l>
+                  <l>Diſcuſſere nivem.—</l>
+               </q> We read of one in <hi>Judeah,</hi>
+               <note place="margin">Joſ. An<g ref="char:EOLhyphen"/>tiq. l. <hi>9.</hi> c. <hi>11.</hi>
+               </note> at <hi>Uzzah's</hi> uſurpation of the Prieſts office, which rent the <hi>Temple,</hi> and a Hill in the <hi>Eaſt</hi> was removed four furlongs towards the <hi>Weſt;</hi> of another in <hi>Herods</hi>
+               <pb n="45" facs="tcp:43624:28"/> Reign, that ſlew <hi>ten thou<g ref="char:EOLhyphen"/>ſand Jews.</hi>
+               <note place="margin">
+                  <hi>l.</hi> 15. <hi>c.</hi> 7.</note> 
+               <hi>Marcley hill</hi> with us in <hi>Hereford-ſhire, Anno</hi> 1571. with a great <hi>noiſe</hi> removed it ſelf from its place, and went con<g ref="char:EOLhyphen"/>tinually for <hi>three dayes</hi> together, overthrowing <hi>Kinnaſton Chapel,</hi> bearing the earth 400. yards be<g ref="char:EOLhyphen"/>fore it. And therefore <hi>Exhalations</hi> may be grant<g ref="char:EOLhyphen"/>ed to remove <hi>ſtones</hi> and <hi>ſands,</hi> and with them ſuch <hi>heterogeneous bodies</hi> as lie on them, from one place to another, from the <hi>ſea</hi> to the
+<pb n="46" facs="tcp:43624:29"/> 
+               <hi>hills,</hi> from a <hi>coaſt</hi> far into a <hi>countrey.</hi> But <hi>Earthquakes</hi> are not frequent in any places unleſs near <hi>Vulcanoes,</hi> and are leſs uſual in theſe parts; and yet in moſt places all over <hi>Europe,</hi> ſuch <hi>heterogeneous bodies</hi> have been found under the Earth, at great diſtance from the Sea. Again, the force of <hi>Exhalations</hi> is moſt evident in <hi>mountainous, rocky countreys,</hi> becauſe when they are pent into ſuch places they cannot have vent; whereas theſe
+<pb n="47" facs="tcp:43624:29"/> bodies are often found in <hi>moſſes, bogs,</hi> and <hi>mariſh grounds,</hi> as frequently as in other earth.</p>
+            <p n="5">5. So that they are moſt likely to be hurried thither by the force of <hi>waters,</hi> paſsing from the <hi>Sea</hi> through the caverns of the <hi>Earth.</hi> The reaſon<g ref="char:EOLhyphen"/>ableneſs of which opinion will the better appear, if we conſider that,</p>
+            <p n="1">1. As the Earth is of a vaſt compaſs, and no leſs than 7000 <hi>miles</hi> in <hi>Diameter,</hi> of which the Water doth not
+<pb n="48" facs="tcp:43624:30"/> make above one third part of the <hi>Globe,</hi> and that on the <hi>ſurface</hi> of Earth too; and ſo far as was ever yet diſcovered of the <hi>Earth,</hi> no part of it is de<g ref="char:EOLhyphen"/>ſtitute of ſome <hi>mineral ſub<g ref="char:EOLhyphen"/>stance</hi> continually genera<g ref="char:EOLhyphen"/>ting in it, unleſs where either the <hi>Sun exhales the force</hi> of it, or Nature is otherwiſe imployed in <hi>producing Vegetables.</hi> So that if the <hi>Earth</hi> be kept from the ſight of the <hi>Sun,</hi> and the <hi>production</hi> of <hi>plants,</hi> nor is apt to other <hi>genera<g ref="char:EOLhyphen"/>tions,</hi>
+               <pb n="49" facs="tcp:43624:30"/> yet it fails not to produce <hi>Saltpeter</hi> or <hi>Nitre</hi> in good quantity. And this is the reaſon that <hi>Saltpeter-men</hi> dig in <hi>Stables, Cellars,</hi> and other houſes. So that in the whole <hi>bow<g ref="char:EOLhyphen"/>els</hi> of the Earth, what vaſt heaps, what mountains of <hi>metalls</hi> are there? Some <hi>in fieri,</hi> ſome <hi>in facto eſſe;</hi> perfect and imperfect; <hi>mean metalls, Stones, Fluors</hi> of all ſorts, <hi>Salts,</hi> and <hi>con<g ref="char:EOLhyphen"/>crete Juices;</hi> beſides the ſeveral ſorts of <hi>Earths, Chalks, Boles, Bitumina,</hi>
+               <pb n="50" facs="tcp:43624:31"/> and the mixtures of all or any of theſe, of which it were much too large, and more beſides my purpoſe particularly to diſcourſe.</p>
+            <p n="2">2. Where there are ſo <hi>vaſt</hi> and <hi>numerous generati<g ref="char:EOLhyphen"/>ons,</hi> 'tis impoſsible that they ſhould ſucceed with<g ref="char:EOLhyphen"/>out vaſt quantities of <hi>wa<g ref="char:EOLhyphen"/>ter.</hi> Nay, to ſpeak more home, the firſt matter that hath been yet diſco<g ref="char:EOLhyphen"/>vered of all <hi>Minerals,</hi> is no other than a certain <hi>Juice</hi> or <hi>water impregnate</hi> with the <hi>ſeminal vertue</hi> of this or
+<pb n="51" facs="tcp:43624:31"/> that <hi>Mineral ſtone</hi> or <hi>Metall,</hi> which from <hi>water</hi> (vvhen it hath found a conveni<g ref="char:EOLhyphen"/>ent <hi>matrix</hi>) becomes a <hi>gel<g ref="char:EOLhyphen"/>ly,</hi> and from a <hi>gelly</hi> this or that <hi>ſtone</hi> or <hi>metall.</hi> This is obvious from ſeveral <hi>ſprings,</hi> whoſe water <hi>im<g ref="char:EOLhyphen"/>pregnate</hi> with the <hi>ſeeds of ſtone,</hi> having found a place of <hi>reſt</hi> convert into <hi>perfect ſtone.</hi> Of which ſort, we read of ſome in<note n="*" place="margin">War<g ref="char:EOLhyphen"/>ner. de Aq. Hungar.</note> 
+               <hi>Hunga<g ref="char:EOLhyphen"/>ry,</hi> of others in <hi>Peru</hi> by<note n="*" place="margin">War<g ref="char:EOLhyphen"/>ner. de Aq. Hungar.</note> 
+               <note n="*" place="margin">Acoſt. l. <hi>3.</hi> c. <hi>17.</hi>
+               </note> 
+               <hi>Acoſta.</hi> In <hi>Guancavilica</hi> there is a Fountain that turns into a <hi>Rock,</hi> with
+<pb n="52" facs="tcp:43624:32"/> which an whole <hi>village</hi> is built. At <hi>Newnham Re<g ref="char:EOLhyphen"/>gis</hi> in <hi>Warwick-ſhire,</hi> our <hi>Geographers</hi> tell us of a <hi>Well</hi> that after the ſame manner turneth <hi>wood</hi> into <hi>ſtone;</hi> of another in the the <hi>North,</hi> that dropping from above into a Cave, becomes <hi>clear</hi> and <hi>very hard ſtone</hi> beneath.<note place="margin">Bert. Geog. p. <hi>127.</hi>
+               </note> 
+               <hi>Rivus eſt apud Scotos Ratra dictus, in cujus ripa eſt ſpelunca, in qua guttatìm ex fornice diſtil<g ref="char:EOLhyphen"/>lans nnda lapideſcit in metas, quae niſi tollantur humana in<g ref="char:EOLhyphen"/>duſtria, ſpatium totum opple<g ref="char:EOLhyphen"/>rent.</hi>
+               <pb n="53" facs="tcp:43624:32"/> Some <hi>Minerals</hi> are no other than certain kind of <hi>Juices accreted,</hi> as <hi>Allum, Vitriol, &amp;c.</hi> And <hi>Mine-maſters</hi> have ſome<g ref="char:EOLhyphen"/>times found <hi>Metalls liquid</hi> and <hi>unconcrete</hi> when they have peirced a <hi>Mine</hi> too ſoon; <hi>Matheſius</hi> menti<g ref="char:EOLhyphen"/>ons <hi>liquid Silver</hi> found by ſome. And for this without doubt among other cauſes, is <hi>water</hi> by the <hi>Ancients</hi> called <hi>Panſper<g ref="char:EOLhyphen"/>mia;</hi> for that the <hi>ſeeds</hi> of things in the Earth have very little vertue without
+<pb n="54" facs="tcp:43624:33"/> this, <hi>Moſes</hi> inſinuates, <hi>Gen.</hi> 2.5. where he gives this reaſon why no Plants yet grew, <hi>viz.</hi> becauſe they lay <hi>in arido, for the Lord had not cauſed it to rain on the earth.</hi> I am very confident that the <hi>Poets</hi> did not only call <hi>Venus</hi> the <hi>Goddeſſe of generation,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the ſpume-born Goddeſſe,</hi> from the <hi>ſaltneſs</hi> of the <hi>ſpume,</hi> (though ſome of later date have therefore called her <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) but from the <hi>waters</hi> that bare it. Nor is there any queſtion
+<pb n="55" facs="tcp:43624:33"/> to be made, but that the Inhabitants of the <hi>waters</hi> are therefore more <hi>nume<g ref="char:EOLhyphen"/>rous</hi> than other creatures, not for any <hi>ſaltneſs,</hi> which at the moſt can but<note n="*" place="margin">Aegyptii ideo à ſale abſtinuerunt (teſte Plutarcho) quod ſa<g ref="char:EOLhyphen"/>lem venerem irritare perſuaſu<g ref="char:cmbAbbrStroke">̄</g> haberent. <hi>Le<g ref="char:EOLhyphen"/>vin. Lemn. de Nat. Miracul. l. 2. p. 228.</hi>
+               </note> 
+               <hi>irritate</hi> to copulation, but doth not ren<g ref="char:EOLhyphen"/>der the <hi>ſeed</hi> e<g ref="char:EOLhyphen"/>ver the more <hi>prolifical.</hi> For <hi>freſh water fiſh</hi> are as <hi>multiplicative</hi> of their <hi>ſpecies</hi> as the other in proportion. There is not a fiſh that ſwimmeth in the deep that hath a grea<g ref="char:EOLhyphen"/>ter
+<pb n="56" facs="tcp:43624:34"/> quantity of ſpawn conſidering his bulk, than a <hi>Carp;</hi> yet it is a <hi>freſh water fiſh.</hi>
+            </p>
+            <p>Nor can I believe there can any other reaſon be given, why the <hi>Iriſh women</hi> have ſo <hi>many Children,</hi> than becauſe their <hi>Country,</hi> and conſequently <hi>themſelves,</hi> are ſo exceeding <hi>moiſt,</hi> as ap<g ref="char:EOLhyphen"/>pears by their <hi>ſtature,</hi> their <hi>pale countenances,</hi> their <hi>flac<g ref="char:EOLhyphen"/>cid, ſoft</hi> and <hi>phlegmatick ha<g ref="char:EOLhyphen"/>bit of body.</hi> And indeed I think that it were as rea<g ref="char:EOLhyphen"/>ſonable to ſeek for <hi>taſte</hi> in
+<pb n="57" facs="tcp:43624:34"/> an <hi>egg,</hi>
+               <note place="margin">
+                  <hi>Ex ovo omnia. Harv.</hi> And what taſte is there in the white of an egg? <hi>Job.</hi>
+               </note> as for <hi>ſalt</hi> in the <hi>ſperm</hi> of <hi>fiſh</hi> or any other creature; for by <hi>virulent Gonorrhaea's</hi> it appears that a <hi>ſharp</hi> and <hi>ſaline quality,</hi> is a token rather of <hi>corrupti<g ref="char:EOLhyphen"/>on</hi> than of any <hi>active</hi> and <hi>generative energy. Et quod veriſsimum eſt dicimus; No<g ref="char:EOLhyphen"/>vimus &amp; jam noſco mulieres varias conjugatas ſat juve<g ref="char:EOLhyphen"/>nes, quae ab erroribus dietae à Pica ſive Malacia cauſatis, praecipuè à ſalitorum, vel potiùs ab incommiſti ſalis eſu, non tandum ſordidos pallidos fae<g ref="char:EOLhyphen"/>tidoſque obtinuere colores; cu<g ref="char:EOLhyphen"/>tes
+<pb n="58" facs="tcp:43624:35"/> impolitas &amp; rugoſas, ven<g ref="char:EOLhyphen"/>triculos nauſeabundos; ve<g ref="char:EOLhyphen"/>rumetiam ſuffocatae omnino evaſerunt &amp; steriles.</hi> But although I attribute the effects above mentioned to <hi>water</hi> rather than <hi>ſalt;</hi> yet I would not be con<g ref="char:EOLhyphen"/>ceived to <hi>imbibe Thales Mi<g ref="char:EOLhyphen"/>leſius opinion,</hi> that <hi>aqua</hi> is ſo named, <hi>quaſi à qua omnia,</hi> as if all things were from it; and yet do believe that it is <hi>cauſa ſine qua non,</hi> and a great <hi>nurſe</hi> and <hi>foſterer</hi> of <hi>Generations,</hi> if not a <hi>Parent</hi> of them. And of <hi>Mine<g ref="char:EOLhyphen"/>rals</hi>
+               <pb n="59" facs="tcp:43624:35"/> too; eſpecially if we ſhould embrace the opi<g ref="char:EOLhyphen"/>nion of the <hi>Peripateticks,</hi> that all <hi>mixed bodies</hi> are immediately <hi>compoſed</hi> of the four <hi>Elements;</hi> for then theſe being the moſt <hi>pon<g ref="char:EOLhyphen"/>derous bodies,</hi> muſt needs have in them the moſt <hi>weighty Elements</hi> in good quantity, and thoſe are <hi>Earth</hi> and <hi>Water.</hi>
+            </p>
+            <p n="3">3. The <hi>Sea</hi> is the ori<g ref="char:EOLhyphen"/>ginal of all Waters; nor could any fountain elſe afford enough to ſupply the Earth to all uſes.
+<pb n="60" facs="tcp:43624:36"/> That which by the <hi>Neote<g ref="char:EOLunhyphen"/>ricks</hi> hath lately been found out, of the Circu<g ref="char:EOLunhyphen"/>lation of the Bloud and Humours in the <hi>Micro<g ref="char:EOLunhyphen"/>coſm,</hi> was long ſince diſ<g ref="char:EOLunhyphen"/>covered (which might poſsibly hint that) in the greater world. <hi>Eccles.</hi> 1.7. <hi>All rivers run into the Sea yet the Sea is not full: unto the place from whence the ri<g ref="char:EOLunhyphen"/>vers come, thither they re<g ref="char:EOLunhyphen"/>turn again.</hi> And what huge quantities of water muſt be neceſſary for the whole Earth, may be
+<pb n="61" facs="tcp:43624:36"/> hence inferred, that the <hi>ſuperficies</hi> of it needs ſo much, that beſides the in<g ref="char:EOLhyphen"/>numerable Springs, Foun<g ref="char:EOLhyphen"/>tains, Chanels, Rivers and Lakes with which it is irrigated, were it not for frequent ſhowres from above, would ſoon be parched up, and un<g ref="char:EOLhyphen"/>able to produce <hi>ſuſtenance</hi> for Man or Beaſt; which help the bowels of the Earth are deſtitute of; for the moiſture of <hi>ſhowres</hi> peirceth not above ten foot deep at the moſt.
+<pb n="62" facs="tcp:43624:37"/> And indeed, this is the onely reaſon that can be given of the <hi>Seas ſaltneſs,</hi> becauſe it doth waſh, and ſo diſſolve much <hi>ſalt</hi> from the rocks of Salt in ſub<g ref="char:EOLhyphen"/>terraneal caverns where it doth paſs, and would long ere this have cauſed places, where ſuch <hi>rocks</hi> have been, to <hi>ſink in:</hi> But that, firſt, there is a <hi>continual generation</hi> and <hi>ac<g ref="char:EOLhyphen"/>cretion,</hi> as well as a <hi>diſſolu<g ref="char:EOLhyphen"/>tion;</hi> and ſecondly, be<g ref="char:EOLhyphen"/>cauſe that <hi>Salt</hi> is very hard, inſomuch that ſome
+<pb n="63" facs="tcp:43624:37"/> 
+               <hi>ſtones of ſalt</hi> there are found in ſeveral waters undiſſolved; as thoſe of which <hi>Cambden</hi> informs us in the River <hi>Weere</hi> near <hi>Batterby</hi> in the <hi>Biſhoprick of Durham.</hi>
+               <note place="margin">Cambd. Brit. Bri<g ref="char:EOLhyphen"/>gant.</note> And as for that dreadful ſtory of <hi>Lots wife</hi> turned into a <hi>pillar of ſalt, Gen.</hi> 19.26. as we are to believe the thing, ſo may it not be improbable that it was termed a <hi>pillar,</hi> as well for the <hi>ſolidity, du<g ref="char:EOLhyphen"/>rableneſs,</hi> and <hi>difficulty of diſſolution,</hi> as well as for its <hi>ſhape</hi> and <hi>form; God</hi>
+               <pb n="64" facs="tcp:43624:38"/> ſtriking her in that man<g ref="char:EOLhyphen"/>ner, as a more <hi>durable mo<g ref="char:EOLhyphen"/>nument</hi> of his anger againſt Diſobedience. And our <hi>glaſs</hi> at this day is but <hi>ſalt</hi> after its <hi>higheſt fuſion,</hi> and yet it is very <hi>ſolid</hi> and <hi>du<g ref="char:EOLhyphen"/>rable,</hi> and <hi>imports no quality to water.</hi> Thirdly and laſtly, the <hi>Sea-water</hi> ha<g ref="char:EOLhyphen"/>ving imbibed ſo much <hi>ſalt</hi> before, is the leſs able to diſſolve more.</p>
+            <p n="4">4. That though the <hi>Sea</hi> on the <hi>coast</hi> near the ſhore, may communi<g ref="char:EOLhyphen"/>cate its waters by <hi>perloca<g ref="char:EOLhyphen"/>tion,</hi>
+               <pb n="65" facs="tcp:43624:38"/> yet to places at great diſtance it cannot paſs ſo as to afford a due ſupply, but by <hi>Gulphs</hi> and <hi>ſubter<g ref="char:EOLhyphen"/>raneal In-draughts.</hi> In ma<g ref="char:EOLhyphen"/>ny places of the world they make the <hi>ſea-water potable</hi> and <hi>freſh</hi> by <hi>dig<g ref="char:EOLhyphen"/>ging of pits</hi> in the <hi>ſand,</hi> into which the <hi>ſea-water</hi> ſtreining it ſelf, leaves its <hi>ſaltneſs behind.</hi> But this muſt be done at no great diſtance from the <hi>Sea,</hi> and it muſt be in <hi>ſand</hi> or <hi>clay,</hi> or the like; for if the ſhore be <hi>rocky,</hi>
+               <pb n="66" facs="tcp:43624:39"/> it will not do; as we ſee in many places where they dig a very great depth for <hi>freſh water</hi> near the <hi>Sea,</hi> and cannot be ſupplied till they find a <hi>freſh ſpring,</hi> a great ma<g ref="char:EOLhyphen"/>ny foot under the <hi>ſurface</hi> of the <hi>Sea.</hi> So we ſee that when we <hi>filtrate</hi> li<g ref="char:EOLhyphen"/>quors through <hi>ſhop-paper,</hi> if it be thin and <hi>bibulous,</hi> it paſſeth; if thick and too cloſe, it will not paſs. Some illuſtrate the <hi>percolation</hi> of the <hi>ſea-water</hi> by this <hi>experiment.</hi> Take
+<pb n="67" facs="tcp:43624:39"/> a round ball of <hi>moiſt clay,</hi> make it <hi>hollow</hi> in the in<g ref="char:EOLhyphen"/>ſide, fill it with <hi>ſalt wa<g ref="char:EOLhyphen"/>ter,</hi> lay it to the <hi>fire,</hi> and it will <hi>extill</hi> by the <hi>pores</hi> of the <hi>clay,</hi> and become <hi>freſh</hi> and <hi>inſipid.</hi>
+            </p>
+            <p>Now that there are vaſt <hi>gulphs</hi> and <hi>chanels</hi> from the <hi>ſea</hi> under the <hi>earth,</hi> will eaſily appear, when we conſider, that ſome great <hi>lakes</hi> and <hi>oce<g ref="char:EOLhyphen"/>ans</hi> there are, that have no other way to <hi>vent them<g ref="char:EOLhyphen"/>ſelves.</hi> What way can the <hi>Caſpian Sea</hi> exonerate it ſelf
+<pb n="68" facs="tcp:43624:40"/> by, after it hath taken into it <hi>Volga, Jaxares, Ochus, Oxus,</hi> and other huge Rivers? What o<g ref="char:EOLhyphen"/>ther reaſon can be given why ſome <hi>lakes</hi> are full of <hi>ſea fiſh,</hi> and yet at great diſtance from <hi>the Sea?</hi> In <hi>Bainoa,</hi> a Pro<g ref="char:EOLhyphen"/>vince of <hi>Hiſpaniola,</hi> is a <hi>lake</hi> of <hi>ſalt water</hi> which hath 24 Rivers running into it, yet never increa<g ref="char:EOLhyphen"/>ſeth, and hath <hi>Sharks</hi> and other <hi>ſea-fiſh</hi> in it. Again, there are <hi>ſalt ſprings</hi> in all Countreys that <hi>ebbe</hi>
+               <pb n="69" facs="tcp:43624:40"/> and <hi>flow</hi> as the Sea and the Coaſts do. There are alſo <hi>ſalt rivers,</hi> as <hi>Ochus</hi> and <hi>Oxus; ſalt lakes,</hi> as that before mentioned. Beſides this, it is ordi<g ref="char:EOLhyphen"/>nary for <hi>chanels</hi> and <hi>rivers</hi> to run a great way on the <hi>earth,</hi> and then to <hi>in<g ref="char:EOLhyphen"/>gulp themſelves.</hi>
+               <note place="margin">Georg. Witne<g ref="char:EOLhyphen"/>rus.</note> The wa<g ref="char:EOLhyphen"/>ters of the <hi>Cirknickzerkſey lake</hi> in <hi>Carniola,</hi> guſh with that violence and ſwift<g ref="char:EOLhyphen"/>neſſe out of the ground, that they will overtake a ſwift Horſe-man, and preſently are ſwallowed
+<pb n="70" facs="tcp:43624:41"/> in a <hi>deep gulph</hi> again. In the Province of <hi>Caz<g ref="char:EOLhyphen"/>cium</hi> in <hi>Hiſpaniola</hi> is a great <hi>cave</hi> in an <hi>hollow rock,</hi> under the root of a very <hi>high mountain,</hi> in which divers Rivers, af<g ref="char:EOLhyphen"/>ter they have run <hi>four<g ref="char:EOLhyphen"/>ſcore and ten miles,</hi> paſs as into an <hi>indraught,</hi> and are ſwallowed up. In moſt Countreys we read of the like. A moun<g ref="char:EOLhyphen"/>tain there is in <hi>Caermar<g ref="char:EOLhyphen"/>then-ſhire,</hi> where <hi>Careg-caſtle</hi> ſometimes ſtood, in which are many <hi>ſpa<g ref="char:EOLhyphen"/>cious
+<pb n="71" facs="tcp:43624:41"/> holes</hi> and <hi>wide caves,</hi> with a <hi>Well</hi> that <hi>ebbs</hi> and <hi>flows</hi> as the <hi>Sea</hi> on the Coaſt doth, twice in <hi>four and twenty hours.</hi> The Current of one and the ſame <hi>Sea</hi> in ſeveral parts contrary ways demon<g ref="char:EOLhyphen"/>ſtrates this, as in the <hi>Atlantick Sea,</hi> in ſome places <hi>from,</hi> and in ſome places <hi>towards the North,</hi> like Liquor in a <hi>fun<g ref="char:EOLhyphen"/>nel.</hi> In ſome places there are <hi>whirlepools,</hi> whoſe wa<g ref="char:EOLhyphen"/>ters turn clean <hi>round,</hi> in<g ref="char:EOLhyphen"/>ſomuch that if a <hi>Ship</hi> at
+<pb n="72" facs="tcp:43624:42"/> ſuch times come over them, they are in moſt extreme danger of <hi>ſink<g ref="char:EOLhyphen"/>ing:</hi>
+               <note place="margin">Such an one there is in the North Sea, near the coaſt of <hi>Nor<g ref="char:EOLhyphen"/>way.</hi>
+               </note> At other times the waters with that <hi>violence</hi> come <hi>out</hi> of the <hi>earth,</hi> that a <hi>Cannon</hi> caſt over<g ref="char:EOLhyphen"/>board will not <hi>ſink.</hi> This cauſed <hi>Taurellus,</hi> and ſome others, to think theſe the onely cauſe of the <hi>Tides. Andreas Moralis</hi>
+               <note place="margin">Moral. decad. <hi>7.</hi> c. <hi>8.</hi>
+               </note> on the Coaſt of <hi>Hiſpaniola</hi> was ſucked into <hi>whirle<g ref="char:EOLhyphen"/>pools,</hi> where with that <hi>violence</hi> the <hi>water</hi> was <hi>drawn</hi> into the <hi>earth,</hi> that
+<pb n="73" facs="tcp:43624:42"/> with extraordinary toil the <hi>Ship</hi> hardly eſcaped <hi>ſinking.</hi> Again, the <hi>hete<g ref="char:EOLhyphen"/>rogeneous bodies</hi> that are found ſo deep, are ſuch uſually that either are <hi>ge<g ref="char:EOLhyphen"/>nerated,</hi> or moſt uſually <hi>dwell</hi> in the <hi>Sea;</hi> as <hi>ſhells, bones of fiſh, maſts, anchors, parts of ſhips.</hi>
+               <note place="margin">Simlerus, Ortelius.</note> At <hi>Berna</hi> in <hi>Switzerland, Anno</hi> 1460. <hi>fifty fathom deep, in a Mine where they got metall-oar,</hi>
+               <note place="margin">Fracaſto<g ref="char:EOLhyphen"/>rius.</note> 
+               <hi>a Ship was digged up, in which were forty eight carkaſes of Men, with other merchan<g ref="char:EOLhyphen"/>diſe.</hi> Out of the <hi>Ocean</hi>
+               <pb n="74" facs="tcp:43624:43"/> into the <hi>Medi<g ref="char:EOLhyphen"/>terranean Sea,</hi>
+               <note place="margin">In Greenland a Maſt was digged out of the top of an high Hill with a pully hanging to it.</note> there is a con<g ref="char:EOLhyphen"/>tinual <hi>current</hi> by the <hi>ſtreights</hi> of <hi>Gibral<g ref="char:EOLhyphen"/>tar;</hi> another <hi>Current</hi> into the ſame out of the <hi>Euxine Sea,</hi> by the <hi>Thraſian Boſphorus;</hi> be<g ref="char:EOLhyphen"/>ſides, very many and great <hi>Rivers.</hi> And which way can it <hi>exonerate</hi> it ſelf? for thoſe vaſt <hi>flouds</hi> do not <hi>increaſe</hi> it. And <hi>Solomons Circulation</hi> of hu<g ref="char:EOLhyphen"/>mours in the <hi>Macrocoſm</hi> above mentioned, is ve<g ref="char:EOLhyphen"/>ry
+<pb n="75" facs="tcp:43624:43"/> conſiderable; nor is the <hi>Analogy</hi> in this parti<g ref="char:EOLhyphen"/>cular between that and the leſſer World obſcure. For the <hi>Sea</hi> in that an<g ref="char:EOLhyphen"/>ſwereth to the <hi>Fountain</hi> of <hi>bloud</hi> in this. The <hi>Subterraneal Rivers,</hi> and thoſe <hi>above ground,</hi> may anſwer to the <hi>veſſels</hi> containing the <hi>bloud.</hi> And both theſe anſwer to the <hi>vaſa attrahentia, &amp; deferentia;</hi> for the <hi>ſub<g ref="char:EOLhyphen"/>terraneal chanels</hi> carry the <hi>water from</hi> the <hi>Sea,</hi> the <hi>Rivers</hi> return it <hi>to</hi> the <hi>Sea.</hi>
+               <pb n="76" facs="tcp:43624:44"/> Again, as both ſorts of <hi>veſſels</hi> are <hi>greater near</hi> the <hi>fountain</hi> of <hi>bloud</hi> in the body; ſo are the <hi>chanels biggest neareſt</hi> the <hi>Sea</hi> their fountain; and though it may ſometimes happen otherwiſe, yet if the banks of any are <hi>wider,</hi> ſo that they look like <hi>lakes</hi> a great while before they diſcharge themſelves in<g ref="char:EOLhyphen"/>to the <hi>Ocean;</hi> I look on it but as <hi>caſuall,</hi> and bearing proportion with the <hi>divarications</hi> of <hi>veſſels</hi> in mans body. Again,
+<pb n="77" facs="tcp:43624:44"/> 
+               <hi>veſſels</hi> in our bodies are from <hi>trunks</hi> (like trees) branched out, <hi>in ramulos, ſurculos,</hi> and other <hi>minute diſtributions</hi> (anſwering to the <hi>ſtalks</hi> of <hi>leaves</hi> or <hi>fruits</hi>) which are again <hi>ſubdivided</hi> into <hi>capillary conveyances,</hi> and thence the <hi>bloud</hi> and <hi>humours</hi> paſs <hi>per poros</hi> for the <hi>nutriment</hi> of the <hi>ſolid parts;</hi> ſo are the <hi>Rivers above</hi> (and without doubt the <hi>cha<g ref="char:EOLhyphen"/>nels</hi> under ground in <hi>pro<g ref="char:EOLhyphen"/>portion</hi> to them) from their main <hi>trunks</hi> divided
+<pb n="78" facs="tcp:43624:45"/> into <hi>Brooks,</hi> thoſe <hi>Brooks</hi> into <hi>Rivulets,</hi> theſe into <hi>leſſer conveyances</hi> as it were <hi>capillary veſſels,</hi> and eve<g ref="char:EOLhyphen"/>ry where <hi>diſperſed</hi> and <hi>diſſeminated</hi> according to the <hi>exigence</hi> of <hi>nature,</hi> and thence paſſe through the <hi>pores</hi> of the Earth, that no part may be deſtitute of a <hi>due ſupply</hi> for the <hi>Genera<g ref="char:EOLhyphen"/>tion</hi> and <hi>increaſe</hi> of all bo<g ref="char:EOLhyphen"/>dies. Again, the <hi>aeſtus maris</hi> bears ſome propor<g ref="char:EOLhyphen"/>tion to the <hi>pulſe</hi> of the <hi>bloud</hi> in the <hi>Microcoſm,</hi> the <hi>ebbing</hi> and <hi>contraction</hi>
+               <pb n="79" facs="tcp:43624:45"/> of the <hi>water</hi> is the <hi>ſyſtole;</hi> the <hi>turgeſcency, floating,</hi> and <hi>dilatation</hi> of the <hi>water,</hi> is the <hi>diaſtole;</hi> the ſpace be<g ref="char:EOLhyphen"/>tween both the <hi>periſy<g ref="char:EOLhyphen"/>ſtole.</hi> Again, as in the <hi>heart</hi> and in ſome <hi>veſſels only</hi> that carry the bloud that <hi>motion</hi> is to be found; ſo is the <hi>aeſtus</hi> diſcovered in ſome <hi>veſſels only</hi> that conveigh the humour of the <hi>greater World.</hi> Not that I look on this as any kind of <hi>proof,</hi> but as an <hi>illuſtration,</hi> the better to guide our conceptions
+<pb n="80" facs="tcp:43624:46"/> in Natures <hi>Water-works,</hi> by what is ſeen that we may the better under<g ref="char:EOLhyphen"/>ſtand that which is not ſeen, or at leaſt not ſo plainly. However e<g ref="char:EOLhyphen"/>nough to our purpoſe it is, that ſuch <hi>Subterraneal chanels</hi> there are from the <hi>Sea</hi> under the <hi>Earth.</hi> As for the common <hi>ſcruple</hi> of the improbability of the <hi>waters</hi> riſing ſo <hi>high</hi> out of the <hi>Sea</hi> to the <hi>ſu<g ref="char:EOLhyphen"/>perfice</hi> of the Earth, it is the leaſt hindrance of an hundred; for if there be
+<pb n="81" facs="tcp:43624:46"/> a <hi>continuity</hi> of the <hi>air, waters</hi> will riſe as <hi>high</hi> as the <hi>ſurface</hi> of the <hi>waters</hi> from whence they came, as appears <hi>in Siphunculis;</hi> and therefore may riſe to the <hi>tops</hi> of the <hi>higheſt hills.</hi> For the higheſt places of the <hi>Sea</hi> anſwer to the <hi>tops</hi> of the <hi>loftieſt mountains,</hi> or elſe the earth could not be <hi>ſpherical.</hi>
+               <note place="margin">Were it not for bounds God hath ſet, the wa<g ref="char:EOLhyphen"/>ters are high enough to turn again and co<g ref="char:EOLhyphen"/>ver the earth, <hi>v. 9.</hi> He hath Chambers or Receptacles by which to water the hills, <hi>v. 13</hi>
+               </note> To this the <hi>Pſal<g ref="char:EOLhyphen"/>miſt</hi> is conſo<g ref="char:EOLhyphen"/>nant, <hi>Pſalme</hi> 104. <hi>The wa<g ref="char:EOLhyphen"/>ters
+<pb n="82" facs="tcp:43624:47"/> go up by the Mountains, they go down by the Valleys unto the place which thou haſt founded for them.</hi> With what violence do the <hi>waters</hi> guſh out of Saint <hi>Winifreds Well</hi> in <hi>Wales</hi> on the top of a great hill? Again, <hi>com<g ref="char:EOLhyphen"/>preſsion</hi> of thoſe vaſt quantities of water <hi>for<g ref="char:EOLhyphen"/>cing</hi> them into <hi>Earth,</hi> may make them <hi>mount</hi> the higher; as <hi>Hoggſheads</hi> full and newly broached run the <hi>faſter.</hi> I'le il<g ref="char:EOLhyphen"/>luſtrate this by the fol<g ref="char:EOLhyphen"/>lowing
+<pb n="83" facs="tcp:43624:47"/> 
+               <hi>experiment.</hi> Take two round <hi>Boards</hi> e<g ref="char:EOLhyphen"/>qually ſized, faſten ſtrong <hi>Leather</hi> to thoſe <hi>Boards</hi> above, below, and on the ſides ſo cloſe that they may <hi>hold water;</hi> from the lower board let an hol<g ref="char:EOLhyphen"/>low <hi>pipe</hi> go up on the out-ſide <hi>higher</hi> than the upper board; fill this <hi>inſtrument</hi> with <hi>water;</hi> then put a <hi>weight</hi> on the upper board, and pro<g ref="char:EOLhyphen"/>portionable to the <hi>weight</hi> ſo will the <hi>waters mount</hi>
+               <pb n="84" facs="tcp:43624:48"/> to a greater or leſſer <hi>height,</hi> as in this <hi>Figure.</hi>
+            </p>
+            <figure>
+               <figDesc>diagram of experimental apperatus to demonstrate the vertical displacement of water under pressure or pumping</figDesc>
+               <p>
+                  <list>
+                     <item>A. <hi>The upper board.</hi>
+                     </item>
+                     <item>B. <hi>The lower board.</hi>
+                     </item>
+                     <item>ccc. <hi>The Leather on eve<g ref="char:EOLhyphen"/>ry ſide.</hi>
+                     </item>
+                     <pb n="85" facs="tcp:43624:48"/>
+                     <item>D. <hi>The Pipe through which the water will leap up<g ref="char:EOLhyphen"/>wards.</hi>
+                     </item>
+                     <item>E. <hi>The weight of com<g ref="char:EOLhyphen"/>preſsion.</hi>
+                     </item>
+                  </list>
+               </p>
+            </figure>
+            <p>But it may be <hi>object<g ref="char:EOLhyphen"/>ed,</hi> that this is an <hi>adven<g ref="char:EOLhyphen"/>titious</hi> and <hi>external com<g ref="char:EOLhyphen"/>preſsion;</hi> and not that of the <hi>water</hi> onely. But I anſwer, that ſuch a <hi>compreſsion</hi> there is in the <hi>Sea</hi> from <hi>agitation</hi> of the waters by <hi>wind,</hi> and other <hi>cauſes;</hi> and yet that waters by their own
+<pb n="86" facs="tcp:43624:49"/> 
+               <hi>natural compreſsion</hi> will <hi>mount</hi> higher than the <hi>brims</hi> of the <hi>veſſel contain<g ref="char:EOLhyphen"/>ing,</hi> may be evident from this, that if we take one of a conſider<g ref="char:EOLhyphen"/>able capacity, with a <hi>pipe</hi> on the outſide ſomething higher than its <hi>brims;</hi> and <hi>rub</hi> the <hi>brims</hi> with <hi>Roſin,</hi> or ſuch like Gum, and then fill it full till no more <hi>water</hi> can be poured in, ſtopping the <hi>orifice</hi> of the <hi>pipe</hi> in the mean time with ones <hi>fin<g ref="char:EOLhyphen"/>ger,</hi> then removing the
+<pb n="87" facs="tcp:43624:49"/> 
+               <hi>finger,</hi> it will preſently <hi>burſt out</hi> at the <hi>pipe.</hi> It may be demanded then, Why are not all Rivers <hi>ſalt?</hi> To this I an<g ref="char:EOLhyphen"/>ſwer; That moſt of them have their waters <hi>ſtopped</hi> and <hi>percolated,</hi> and ſo leave their <hi>ſaltneſſe</hi> be<g ref="char:EOLhyphen"/>hind. But as for thoſe that have no hinderance, they are not onely <hi>ſalt,</hi> but do conſtantly <hi>ebbe</hi> and <hi>flow,</hi> as hath been ex<g ref="char:EOLhyphen"/>emplified already. Thoſe that have a ſtoppage by a <hi>bank</hi> of <hi>earth</hi> to ſuch an
+<pb n="88" facs="tcp:43624:50"/> 
+               <hi>heighth</hi> onely, iſſue <hi>freſh water</hi> at their <hi>ebbe,</hi> and at their <hi>flote ſalt;</hi> as that <hi>fountain</hi> in the <hi>Iſle of Gades</hi> doth.<note place="margin">See <hi>Or<g ref="char:EOLhyphen"/>tel. map.</hi> epitomi<g ref="char:EOLhyphen"/>xed in the de<g ref="char:EOLhyphen"/>ſcription of <hi>Gades.</hi>
+               </note> Thoſe that are <hi>ſalt,</hi> and have no <hi>tides,</hi> are ſuch as after <hi>perco<g ref="char:EOLhyphen"/>lation</hi> waſh ſome <hi>rocks of ſalt</hi> before their <hi>erup<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p n="5">5. Where mighty <hi>flouds</hi> come with <hi>violence,</hi> as theſe muſt of neceſsity do by reaſon of the vaſt <hi>quantity,</hi> the mighty <hi>com<g ref="char:EOLhyphen"/>preſsion,</hi> and the unſpeak<g ref="char:EOLhyphen"/>able <hi>weight</hi> of the <hi>waters</hi>
+               <pb n="89" facs="tcp:43624:50"/> of the <hi>Ocean,</hi> they will eaſily carry with them <hi>light,</hi> and with no great difficulty <hi>ponderous bodies.</hi> This needs not, and there<g ref="char:EOLhyphen"/>fore ſhall not, have any proof.</p>
+            <p n="6">6. <hi>Heterogeneous bodies</hi> by the <hi>weight</hi> and <hi>ſtrength</hi> of <hi>waters</hi> forced into a <hi>narrow place,</hi> cannot eaſi<g ref="char:EOLhyphen"/>ly by the <hi>return</hi> of thoſe beyond them, (if they return at all the ſame way) be brought forth again. Becauſe there is little or no <hi>compreſsion,</hi> and
+<pb n="90" facs="tcp:43624:51"/> therefore the return of the water is <hi>leaſurely,</hi> and <hi>by degrees.</hi> This is ob<g ref="char:EOLhyphen"/>vious to Senſe, and therefore needs no <hi>illu<g ref="char:EOLhyphen"/>ſtration.</hi>
+            </p>
+            <p n="7">7. And as much evi<g ref="char:EOLhyphen"/>dent to ſenſe it is that any <hi>heterogeneous bodies</hi> ſo remaining <hi>unremoved,</hi> ſoon gather <hi>ſlime</hi> and <hi>ſand</hi> a<g ref="char:EOLhyphen"/>bout them, and in a ſmall ſpace of time are <hi>lodged</hi> as it were <hi>in firm ground.</hi> This is no more wonderful than to have any <hi>veſſel</hi> in the <hi>Micro<g ref="char:EOLhyphen"/>coſm
+<pb n="91" facs="tcp:43624:51"/> obſtructed</hi> by <hi>crude</hi> and <hi>heterogeneous bodies, caeteris paribus.</hi> Nor need we ſeek for rare <hi>Water-works;</hi> for every ordinary <hi>gutter</hi> and <hi>ſink</hi> will de<g ref="char:EOLhyphen"/>monſtrate this.</p>
+            <p>And thus <hi>(Doctor)</hi> you have my Opinion of the way by which thoſe <hi>Cockle, Muſcle,</hi> and <hi>Oyſter<g ref="char:EOLhyphen"/>ſhells</hi> you mentioned, were brought and lodg<g ref="char:EOLhyphen"/>ed in that place. If they were truly <hi>ſhells,</hi> they were conveyed ei<g ref="char:EOLhyphen"/>ther <hi>above</hi> or <hi>under ground;</hi>
+               <pb n="92" facs="tcp:43624:52"/> but not ſo uſually <hi>above,</hi> therefore <hi>under.</hi> If <hi>under</hi> ground, then by <hi>natural</hi> or <hi>voluntary agents.</hi> If by <hi>natural</hi> and <hi>neceſſary,</hi> then either by <hi>Vapours, Exhala<g ref="char:EOLhyphen"/>tions,</hi> or <hi>Waters;</hi> but this is done <hi>uſually</hi> and <hi>com<g ref="char:EOLhyphen"/>monly</hi> by none of the for<g ref="char:EOLhyphen"/>mer, therefore by the laſt; which is the more <hi>likely</hi> to effect it,</p>
+            <p n="1">1. Becauſe there are <hi>numerous generations</hi> in the Earth.</p>
+            <p n="2">2. Where many <hi>genera<g ref="char:EOLhyphen"/>tions</hi> are, much <hi>water</hi> is ne<g ref="char:EOLhyphen"/>ceſſary.</p>
+            <pb n="93" facs="tcp:43624:52"/>
+            <p n="3">3. No <hi>fountain</hi> can ſup<g ref="char:EOLhyphen"/>ply the <hi>earth</hi> to theſe pur<g ref="char:EOLhyphen"/>poſes but the <hi>Sea,</hi> which is the <hi>original</hi> of all <hi>waters.</hi>
+            </p>
+            <p n="4">4. Though the <hi>Sea</hi> communicate his <hi>waters</hi> to places near it by <hi>perco<g ref="char:EOLhyphen"/>lation;</hi> it muſt and doth ſupply that afar off by whole <hi>flouds, gulphs,</hi> and <hi>indraughts.</hi>
+            </p>
+            <p n="5">5. Where <hi>mighty flouds</hi> come with <hi>violence,</hi> they will carry very <hi>weighty bo<g ref="char:EOLhyphen"/>dies</hi> with them.</p>
+            <p n="6">6. <hi>Heterogeneous bodies</hi> are not eaſily brought
+<pb n="94" facs="tcp:43624:53"/> back again when they are <hi>forced</hi> into a <hi>narrow place.</hi>
+            </p>
+            <p n="7">7. But in a little time gather <hi>ſlime,</hi> and <hi>earth</hi> a<g ref="char:EOLhyphen"/>bout them, and ſo are lodged in firm ground.</p>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Pſal. 139.14.</hi>
+                  </bibl>
+                  <p>Marvellous are thy works (O Lord) and that my ſoul knows right well.</p>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
